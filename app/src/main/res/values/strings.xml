@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Fragment(Homework)</string>
+    <string-array name="dsMonHoc">
+        <item>Giải tích 1</item>
+        <item>Giải tích 2</item>
+        <item>Đại số</item>
+        <item>Toán rời rạc 1</item>
+        <item>Toán rời rạc 2</item>
+        <item>Mạng máy tính</item>
+        <item>Lập trình mạng</item>
+        <item>Kỹ thuật đồ họa</item>
+        <item>Lập trình web</item>
+        <item>Lý thuyết thông tin</item>
+        <item>Kiến trúc máy tính</item>
+        <item>Hệ điều hành</item>
+        <item>Cơ sỡ dữ liệu</item>
+        <item>An toàn bảo mật hệ thống thông tin</item>
+        <item>Mác_lênin</item>
+    </string-array>
+    <string-array name="dsGiangVien">
+        <item>Lưu Nguyễn Kỳ Thư</item>
+        <item>Huỳnh Trọng Thưa</item>
+        <item>Ninh Xuân Hải</item>
+        <item>Nguyễn Anh Hào</item>
+        <item>Nguyễn Thị Phương Thảo</item>
+        <item>Phan Thanh Toản</item>
+        <item>Hồ Đắc Hưng</item>
+        <item>Nguyễn Xuân Hải</item>
+        <item>Nguyễn Xuân Sâm</item>
+        <item>Nguyễn Hồng Sơn</item>
+        <item>Tân Hạnh</item>
+        <item>Tuyết Hải</item>
+
+    </string-array>
+
+    <string-array name="arrInfo">
+        <item>Giới tính: Nam </item>
+        <item>Ngày Sinh: 22/11/1996</item>
+        <item>Chiều cao: 169 cm</item>
+        <item>Cân nặng: 60kg</item>
+        <item>Chòm sao: Nhân mã</item>
+        <item>Nhóm máu: chưa rõ </item>
+        <item>Món ăn yêu thích: KFC</item>
+        <item>Thức uống yêu thích: Trà</item>
+        <item>Màu sắc yêu thích: xanh dương, xanh lá, trắng, đen.</item>
+        <item>Sở thích: Anime, Game, Âm nhạc </item>
+        <item>Tình trạng quan hệ: Độc thân</item>
+        <item>SĐT: 01636 983 xxx</item>
+        <item>Email: flului1996@gmail.com</item>
+    </string-array>
+</resources>
